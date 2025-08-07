@@ -5,6 +5,11 @@ Superstore Sales Dashboard
 This project showcases a sales dashboard built using Power BI, based on the Global Superstore dataset from Kaggle.
 The dashboard is designed to help business stakeholders understand key performance metrics and trends.
 
+🔗 Dataset Used
+
+ Source: [Kaggle – Superstore Sales Dataset](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales)  
+ Fields Used: Category, Sub-Category, Sales, Profit, Region, Quantity, Order Date
+
 🔍 Features: KPI Cards, Line Chart, Bar Chart, Slicers  
 
 📁 Files Included
